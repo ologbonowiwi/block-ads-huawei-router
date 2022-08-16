@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "docker-compose up"
   },
-  "keywords": [],
+  "keywords": ["js", "puppeteer", "automation", "huawei", "router", "no-ads", "ads-free", "ads", "node", "file", "block", "block-ads", "block-ads-huawei-router"],
   "author": "",
   "license": "ISC",
   "dependencies": {
